@@ -1,4 +1,4 @@
-module learn_rmq
+module github.com/xobe19/learn_rabbitmq
 
 go 1.22.1
 
